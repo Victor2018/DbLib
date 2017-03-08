@@ -1,5 +1,5 @@
 # DbLib
-ContentProvider 跨进程通信的实现
+ContentProvider 跨进程通信的实现及数据库的封装
 
 # Usage
 
