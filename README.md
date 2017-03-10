@@ -14,7 +14,7 @@ allprojects {
 - Step 2. Add the dependency
 
 dependencies {
-        compile 'com.github.Victor2018:AppUpdateLib:v1.5'
+        compile 'com.github.Victor2018:DbLib:v1.2'
 }
  
 
