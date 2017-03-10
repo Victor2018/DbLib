@@ -1,5 +1,6 @@
 # DbLib
-ContentProvider 跨进程通信的实现及数据库的封装
+
+数据库的封装
 
 # Usage
 
@@ -16,7 +17,7 @@ allprojects {
 dependencies {
         compile 'com.github.Victor2018:DbLib:v1.2'
 }
- 
+
 
 ## License
 
